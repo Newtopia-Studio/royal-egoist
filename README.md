@@ -29,6 +29,7 @@ esta es una novela visual de blue lock ambientada en la edad media
 - **Doblaje:**
   - **Blexx**
   - **Fan**
+  - **Daichi**
   - **Grokz**
   - **Loki**
   - **Marialin**
