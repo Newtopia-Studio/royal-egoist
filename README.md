@@ -18,6 +18,7 @@ esta es una novela visual de blue lock ambientada en la edad media
   - **Yam**
   - **Yuko**
 - **Guionistas:**
+  - **Axel**
   - **BryLang**
   - **Hyuna**
   - **LenVainilla**

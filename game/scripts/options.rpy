@@ -64,6 +64,7 @@ define gui.about = _p("""
     • {i}Yam{/i} \n
     • {i}Yuko{/i} \n
 • {b}Guionistas:{/b} \n
+    • {i}Axel{/i} \n
     • {i}BryLang{/i} \n
     • {i}Hyuna{/i} \n
     • {i}LenVainilla{/i} \n
