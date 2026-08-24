@@ -1,5 +1,5 @@
 # Royal Egoist
-esta es una novela visual de blue lock ambientada en la edad media
+esta es una novela visual inspirada en blue lock ambientada en la edad media
 - [Pagina Oficial](https://studio-newtopia.web.app)
 
 ## Licencia
