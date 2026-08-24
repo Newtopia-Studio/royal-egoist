@@ -24,6 +24,8 @@ errors.txt
 android.json
 progressive_download.txt
 project.json
+android.keystore
+bundle.keystore
 
 # Configuración de persistencia local del desarrollador
 /game/presave/
@@ -47,6 +49,5 @@ desktop.ini
 # =========================================
 # EXTRA
 # =========================================
-android.keystore  
-bundle.keystore
 ideas.md
+AGENTS.md

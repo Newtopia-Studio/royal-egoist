@@ -1,4 +1,4 @@
-# Medievalock
+# Royal Egoist
 esta es una novela visual de blue lock ambientada en la edad media
 - [Pagina Oficial](https://studio-newtopia.web.app)
 
