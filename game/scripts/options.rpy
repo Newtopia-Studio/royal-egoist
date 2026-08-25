@@ -45,7 +45,7 @@ define gui.show_name = True
 
 ## Versión del juego.
 
-define config.version = "0.1.0"
+define config.version = "0.1.1"
 
 
 ## Texto situado en la pantalla 'Acerca de' del juego. Sitúa el texto entre
