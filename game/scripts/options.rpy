@@ -91,7 +91,7 @@ define gui.about = _p("""
 ## Nombre breve del juego para ejecutables y directorios en la distribución.
 ## Debe contener solo carácteres ASCII, sin espacios, comas o puntos y coma.
 
-define build.name = "royal egoist"
+define build.name = "royal-egoist"
 
 
 ## Sonidos y música ############################################################
@@ -198,7 +198,7 @@ default preferences.afm_time = 15
 ## Normalmente, este valor no debe ser modificado. Si lo es, debe ser siempre
 ## una cadena literal y no una expresión.
 
-define config.save_directory = "royal egoist"
+define config.save_directory = "royal_egoist"
 
 
 ## Icono #######################################################################
