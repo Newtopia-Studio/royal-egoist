@@ -1,5 +1,6 @@
 # Royal Egoist
-esta es una novela visual inspirada en blue lock ambientada en la edad media
+*Royal Egoist* es una novela visual de romance ambientada en la Edad Media, con varios reinos en los que podrás ayudar y enamorar a tus egoístas favoritos. 
+Cuenta con reinos inspirados en las civilizaciones medievales de Japón, Inglaterra, Francia y Alemania.
 - [Pagina Oficial](https://studio-newtopia.web.app)
 
 ## Licencia
