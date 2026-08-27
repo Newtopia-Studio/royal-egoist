@@ -375,7 +375,7 @@ screen main_menu():
     ## Esto asegura que cualquier otra pantalla de menu es remplazada.
     tag menu
 
-    add gui.main_menu_background
+    add Movie(play="images/bg/main_menu_animado.webm", loop=True)
 
     ## Este marco vacío oscurece el menu principal.
     frame:
