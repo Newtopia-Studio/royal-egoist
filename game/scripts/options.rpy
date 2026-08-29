@@ -116,7 +116,7 @@ define config.has_voice = True
 ## el menú principal. Este archivo seguirá sonando en el juego hasta que sea
 ## detenido o se reproduzca otro archivo.
 
-# define config.main_menu_music = ""
+define config.main_menu_music = "audio/bgm/main_menu.ogg"
 
 
 ## Transiciones ################################################################
