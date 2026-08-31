@@ -240,6 +240,9 @@ init python:
     build.classify('**/.**', None)
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
+    build.classify('ideas.md', None)
+    build.classify('AGENTS.md', None)
+    build.classify('*.txt', None)
 
     ## Para archivar, se clasifican como 'archive'.
 
