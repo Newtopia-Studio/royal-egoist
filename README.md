@@ -28,6 +28,7 @@ Cuenta con reinos inspirados en las civilizaciones medievales de Japón, Inglate
   - **Yam**
   - **Yuko**
 - **Doblaje:**
+  - **Jhoan**
   - **Blexx**
   - **Fan**
   - **Daichi**
