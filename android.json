@@ -10,7 +10,7 @@
     "name": "Royal Egoist",
     "numeric_version": 1,
     "orientation": "sensor",
-    "package": "com.newtopia.royalegoist",
+    "package": "com.newtopia.royal_egoist",
     "permissions": [
         "VIBRATE",
         "INTERNET"
@@ -20,5 +20,5 @@
     "update_always": true,
     "update_icons": true,
     "update_keystores": true,
-    "version": "1.0"
+    "version": "0.3.0"
 }
