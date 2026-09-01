@@ -21,7 +21,6 @@ errors.txt
 /bin/
 /tmp/
 /build/
-android.json
 progressive_download.txt
 project.json
 android.keystore

@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "3",
+    "icon_name": "Royal Egoist",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "Royal Egoist",
+    "numeric_version": 1,
+    "orientation": "sensor",
+    "package": "com.newtopia.royalegoist",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}
