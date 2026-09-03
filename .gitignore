@@ -21,6 +21,10 @@ errors.txt
 /bin/
 /tmp/
 /build/
+/dist/
+/royal-egoist/
+/archivos/
+/build-android.sh
 progressive_download.txt
 project.json
 android.keystore
