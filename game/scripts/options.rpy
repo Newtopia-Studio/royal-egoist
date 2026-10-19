@@ -52,19 +52,18 @@ define config.version = "0.3.0"
 ## comillas triples y deja una línea en blanco entre párrafos.
 
 define gui.about = _p("""
-{b}Creadores:{/b} \n
+{b}Equipo:{/b} \n
 • {b}Programadores:{/b} \n
     • {i}BryLang{/i} \n
 • {b}Disenadores:{/b} \n
     • {i}BryLang{/i} \n
 • {b}Artistas:{/b} \n
-    • {i}Damzelette{/i} \n
+    • {i}Evan{/i} \n
     • {i}Hyuna{/i} \n
     • {i}LenVainilla{/i} \n
     • {i}Yam{/i} \n
     • {i}Yuko{/i} \n
 • {b}Guionistas:{/b} \n
-    • {i}Axel{/i} \n
     • {i}BryLang{/i} \n
     • {i}Hyuna{/i} \n
     • {i}LenVainilla{/i} \n
@@ -73,15 +72,10 @@ define gui.about = _p("""
     • {i}Yam{/i} \n
     • {i}Yuko{/i} \n
 • {b}Doblaje:{/b} \n
-    • {i}Jhoan{/i} \n
-    • {i}Blexx{/i} \n
-    • {i}Fan{/i} \n
-    • {i}Daichi{/i} \n
-    • {i}Grokz{/i} \n
     • {i}Loki{/i} \n
-    • {i}Marialin{/i} \n
-    • {i}MiseriSixSeven{/i} \n
-    • {i}Sinyo{/i} \n
+    • {i}Sam{/i} \n
+• {b}Musica:{/b} \n
+    • {i}BryLang{/i} \n
 • {b}Testers:{/b} \n
     • {i}Mirko{/i} \n
 """)

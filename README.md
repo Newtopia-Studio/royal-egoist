@@ -13,13 +13,12 @@ Cuenta con reinos inspirados en las civilizaciones medievales de Japón, Inglate
 - **Diseñadores:**
   - **BryLang**
 - **Artistas:**
-  - **Damzelette**
+  - **Evan**
   - **Hyuna**
   - **LenVainilla**
   - **Yam**
   - **Yuko**
 - **Guionistas:**
-  - **Axel**
   - **BryLang**
   - **Hyuna**
   - **LenVainilla**
@@ -28,15 +27,10 @@ Cuenta con reinos inspirados en las civilizaciones medievales de Japón, Inglate
   - **Yam**
   - **Yuko**
 - **Doblaje:**
-  - **Jhoan**
-  - **Blexx**
-  - **Fan**
-  - **Daichi**
-  - **Grokz**
   - **Loki**
-  - **Marialin**
-  - **MiseriSixSeven**
-  - **Sinyo**
+  - **Sam**
+- **Musica:**
+  - **BryLang**
 - **Testers:**
   - **Mirko**
 
