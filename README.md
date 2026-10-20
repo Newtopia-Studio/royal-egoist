@@ -27,9 +27,11 @@ Cuenta con reinos inspirados en las civilizaciones medievales de Japón, Inglate
   - **Yam**
   - **Yuko**
 - **Doblaje:**
+  - **Blexx**
   - **Loki**
   - **Sam**
 - **Musica:**
+  - **Blexx**
   - **BryLang**
 - **Testers:**
   - **Mirko**

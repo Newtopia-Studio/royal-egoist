@@ -72,9 +72,11 @@ define gui.about = _p("""
     • {i}Yam{/i} \n
     • {i}Yuko{/i} \n
 • {b}Doblaje:{/b} \n
+    • {i}Blexx{/i} \n
     • {i}Loki{/i} \n
     • {i}Sam{/i} \n
 • {b}Musica:{/b} \n
+    • {i}Blexx{/i} \n
     • {i}BryLang{/i} \n
 • {b}Testers:{/b} \n
     • {i}Mirko{/i} \n
